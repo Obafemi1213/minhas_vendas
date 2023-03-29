@@ -7,5 +7,16 @@
         background-color: #170242;
         color: white;
     }
+    p{
+        display: flex;
+    }
+
+
+    #enome{
+        display: flex;
+        height: 25px;
+        width: 50px;
+        background: white;
+    }
     
  }
