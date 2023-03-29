@@ -20,6 +20,7 @@
         background: white;
         margin-left: 5px;
         margin-bottom: 5px;
+        border: 1px solid black;
         border-radius: 8px;
         box-shadow: 2px 2px 9px rgba(0, 0, 0, 0.705);
     }
