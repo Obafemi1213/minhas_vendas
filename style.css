@@ -17,6 +17,24 @@
         height: 25px;
         width: 50px;
         background: white;
+        margin: 5px;
+        border-radius: 10px;
+    }
+    
+    #mmeta{
+        display: flex;
+        height: 25px;
+        width: 50px;
+        background: white;
+
+    }
+    
+    #salarioa{
+        display: flex;
+        height: 25px;
+        width: 50px;
+        background: white;
+
     }
     
  }
