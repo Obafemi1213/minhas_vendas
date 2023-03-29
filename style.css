@@ -30,6 +30,9 @@
         height: 25px;
         width: 50px;
         background: white;
+        border-radius: 8px;
+        border: 1px solid black;
+        box-shadow: 2px 2px 9px rgba(0, 0, 0, 0.705);
 
     }
     
@@ -38,7 +41,15 @@
         height: 25px;
         width: 50px;
         background: white;
+        border-radius: 8px;
+        border: 1px solid black;
+        box-shadow: 2px 2px 9px rgba(0, 0, 0, 0.705);
 
+    }
+
+    #dados{
+        margin: 10px;
+        padding: 10px;
     }
     
  }
