@@ -1,5 +1,6 @@
 @charset "UTF-8";
- /* #170242*/
+ /* #170242
+    #9a4bbb  */
 
  @media screen and (max-width: 720px) {
     body{
@@ -60,19 +61,37 @@
     }
 
     #ivenda{
+        display: block;
         margin: auto;
+        text-align: center;
         border-radius: 10px;
         padding: 10px;
     }
 
+    #lvenda{
+        margin: auto;
+    }
+
     #ienviar{
+        display: inline;
         margin: 5px;
         padding: 10px;
+        font-size: 1em;
+        background-color: transparent;
+        color: white;
+        border: 1px solid #9a4bbb ;
+        border-radius: 30px;
     }
 
     #ilimpar{
         margin: 5px;
         padding: 10px;
+        font-size: 1em;
+        background-color: transparent;
+        color: white;
+        border: 1px solid #9a4bbb ;
+        border-radius: 30px;
+
     }
     
  }
